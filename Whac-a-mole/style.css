@@ -12,5 +12,6 @@
 }
 
 .mole {
-  background-color: blue;
+  background-image: url(dugtrio.webp);
+  background-size: cover;
 }
